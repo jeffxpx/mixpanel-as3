@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="Main">
+    <configurations>
+      <configuration name="Main" main-class="Main" output-file="Main.swf" output-folder="$MODULE_DIR$/bin" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template">
+        <dependencies target-player="11.5">
+          <entries>
+            <entry library-id="12ca54d0-4cb3-4434-a107-5f5fb5b4115b">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="a7257986-152c-499a-b39f-3c9d7bc791b6">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="0849275a-b009-4027-886f-ad7fa805eaf8">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="0db439f2-5506-49ed-aa3c-37e3da9b2337">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="d19df531-6eb5-4922-90b1-2100db0d1484">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="4.6.0.23102B" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="4.6.0.23102B" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="12ca54d0-4cb3-4434-a107-5f5fb5b4115b" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="a7257986-152c-499a-b39f-3c9d7bc791b6" />
+        <CLASSES>
+          <root url="file://C:/Program Files/Adobe/Adobe Flash Builder 4.7 (64 Bit)/eclipse/plugins/com.adobe.flexbuilder.flexunit_4.7.0.349722/flexunitframework/libs/version4libs/Common" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://C:/Program Files/Adobe/Adobe Flash Builder 4.7 (64 Bit)/eclipse/plugins/com.adobe.flexbuilder.flexunit_4.7.0.349722/flexunitframework/libs/version4libs/Common" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="0849275a-b009-4027-886f-ad7fa805eaf8" />
+        <CLASSES>
+          <root url="file://C:/Program Files/Adobe/Adobe Flash Builder 4.7 (64 Bit)/eclipse/plugins/com.adobe.flexbuilder.flexunit_4.7.0.349722/flexunitframework/libs/version4libs/FlexProject" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://C:/Program Files/Adobe/Adobe Flash Builder 4.7 (64 Bit)/eclipse/plugins/com.adobe.flexbuilder.flexunit_4.7.0.349722/flexunitframework/libs/version4libs/FlexProject" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="0db439f2-5506-49ed-aa3c-37e3da9b2337" />
+        <CLASSES>
+          <root url="file://C:/Program Files/Adobe/Adobe Flash Builder 4.7 (64 Bit)/eclipse/plugins/com.adobe.flexbuilder.flexunit_4.7.0.349722/flexunitframework/libs/version4libs/FlexProject_Extended" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://C:/Program Files/Adobe/Adobe Flash Builder 4.7 (64 Bit)/eclipse/plugins/com.adobe.flexbuilder.flexunit_4.7.0.349722/flexunitframework/libs/version4libs/FlexProject_Extended" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="d19df531-6eb5-4922-90b1-2100db0d1484" />
+        <CLASSES>
+          <root url="file://$FLEXUNIT_LOCALE_LOCATION$" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$FLEXUNIT_LOCALE_LOCATION$/" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
